@@ -1,0 +1,30 @@
+anaconda
+bald eagle
+buffalo
+camel
+chameleon
+dung beetle
+dragonfly
+penguin
+flamingo
+fruit fly
+girrafe
+gazelle
+horse
+jellyfish
+jackal
+jumping spider
+komodo dragon
+mosquito
+nile crocodile
+octopus
+ostrich
+polar bear
+peacock
+raccoon
+rhinoceros
+rooster
+seagull
+shark
+shrimp
+vulture

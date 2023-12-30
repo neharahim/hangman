@@ -1,0 +1,30 @@
+apricot
+avocado
+blackberry
+blueberry
+cashew
+custard apple
+cherry
+chico fruit
+coconut
+date
+dragon fruit
+raisin
+grape fruit
+falsa
+guava
+kiwi fruit
+lemon
+lime
+lychee
+mango
+melon
+watermelon
+tangerine
+papaya
+persimmon
+pineapple
+pomegranate
+raspberry
+star fruit
+strawberry
